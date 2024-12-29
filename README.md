@@ -50,7 +50,7 @@ This is your go-to tool to master WiFi hacking with a range of features that wil
 # Installation 🛠️
 # For Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update && sudo apt-get install git
-    git clone https://github.com/SANTHOSHKUMAR-EXE/WiFiPwnage.git
+    git clone https://github.com/SANTHOSHKUMAR-EXE/WiFiPwnage
     cd WiFiPwnage
     sudo python3 Wifi-Pwnage.py
 ---
@@ -64,6 +64,6 @@ apt install git
 apt install python
 apt install python3
 apt install cmatrix
-git clone https://github.com/SANTHOSHKUMAR-EXE/WiFiPwnage.git
+git clone https://github.com/SANTHOSHKUMAR-EXE/WiFiPwnage
 cd WiFiPwnage
 python3 Wifi-Pwnage.py
