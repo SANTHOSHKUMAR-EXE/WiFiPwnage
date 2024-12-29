@@ -1,5 +1,5 @@
 # WiFiPwnage
-# 💥 **WiFi Hacking: Unleash Your Inner Hacker** 💥
+# 💥 **WiFi Hacking: Unleash Your Inner Hacker** 
 
 ![WiFi Hacking](https://i.ibb.co/jMFdcQZ/Wi-Fi-Pwnage.png)
 # Disclaimer: ⚠️
